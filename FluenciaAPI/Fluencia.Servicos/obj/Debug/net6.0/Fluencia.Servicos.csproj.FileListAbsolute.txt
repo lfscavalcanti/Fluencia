@@ -1,0 +1,12 @@
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\bin\Debug\net6.0\Fluencia.Servicos.deps.json
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\bin\Debug\net6.0\Fluencia.Servicos.dll
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\bin\Debug\net6.0\Fluencia.Servicos.pdb
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\obj\Debug\net6.0\Fluencia.Servicos.csproj.AssemblyReference.cache
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\obj\Debug\net6.0\Fluencia.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\obj\Debug\net6.0\Fluencia.Servicos.AssemblyInfoInputs.cache
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\obj\Debug\net6.0\Fluencia.Servicos.AssemblyInfo.cs
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\obj\Debug\net6.0\Fluencia.Servicos.csproj.CoreCompileInputs.cache
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\obj\Debug\net6.0\Fluencia.Servicos.dll
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\obj\Debug\net6.0\refint\Fluencia.Servicos.dll
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\obj\Debug\net6.0\Fluencia.Servicos.pdb
+C:\Fluencia\FluenciaAPI\Fluencia.Servicos\obj\Debug\net6.0\ref\Fluencia.Servicos.dll

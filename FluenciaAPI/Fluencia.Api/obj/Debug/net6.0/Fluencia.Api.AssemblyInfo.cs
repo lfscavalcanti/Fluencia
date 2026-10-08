@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fluencia.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb5f0d9d0cb95d3af2d2373df951c44e5e306886")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d91d0d014e668ad158e77803f6c5a70f710fe6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fluencia.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fluencia.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

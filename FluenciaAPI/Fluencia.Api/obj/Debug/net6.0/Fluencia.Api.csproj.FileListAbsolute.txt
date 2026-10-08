@@ -1,0 +1,12 @@
+C:\Fluencia\FluenciaAPI\Fluencia.Api\bin\Debug\net6.0\Fluencia.Api.deps.json
+C:\Fluencia\FluenciaAPI\Fluencia.Api\bin\Debug\net6.0\Fluencia.Api.dll
+C:\Fluencia\FluenciaAPI\Fluencia.Api\bin\Debug\net6.0\Fluencia.Api.pdb
+C:\Fluencia\FluenciaAPI\Fluencia.Api\obj\Debug\net6.0\Fluencia.Api.csproj.AssemblyReference.cache
+C:\Fluencia\FluenciaAPI\Fluencia.Api\obj\Debug\net6.0\Fluencia.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fluencia\FluenciaAPI\Fluencia.Api\obj\Debug\net6.0\Fluencia.Api.AssemblyInfoInputs.cache
+C:\Fluencia\FluenciaAPI\Fluencia.Api\obj\Debug\net6.0\Fluencia.Api.AssemblyInfo.cs
+C:\Fluencia\FluenciaAPI\Fluencia.Api\obj\Debug\net6.0\Fluencia.Api.csproj.CoreCompileInputs.cache
+C:\Fluencia\FluenciaAPI\Fluencia.Api\obj\Debug\net6.0\Fluencia.Api.dll
+C:\Fluencia\FluenciaAPI\Fluencia.Api\obj\Debug\net6.0\refint\Fluencia.Api.dll
+C:\Fluencia\FluenciaAPI\Fluencia.Api\obj\Debug\net6.0\Fluencia.Api.pdb
+C:\Fluencia\FluenciaAPI\Fluencia.Api\obj\Debug\net6.0\ref\Fluencia.Api.dll

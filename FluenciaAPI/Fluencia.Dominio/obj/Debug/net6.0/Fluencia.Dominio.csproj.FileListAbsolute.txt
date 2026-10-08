@@ -1,0 +1,12 @@
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\bin\Debug\net6.0\Fluencia.Dominio.deps.json
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\bin\Debug\net6.0\Fluencia.Dominio.dll
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\bin\Debug\net6.0\Fluencia.Dominio.pdb
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\obj\Debug\net6.0\Fluencia.Dominio.csproj.AssemblyReference.cache
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\obj\Debug\net6.0\Fluencia.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\obj\Debug\net6.0\Fluencia.Dominio.AssemblyInfoInputs.cache
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\obj\Debug\net6.0\Fluencia.Dominio.AssemblyInfo.cs
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\obj\Debug\net6.0\Fluencia.Dominio.csproj.CoreCompileInputs.cache
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\obj\Debug\net6.0\Fluencia.Dominio.dll
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\obj\Debug\net6.0\refint\Fluencia.Dominio.dll
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\obj\Debug\net6.0\Fluencia.Dominio.pdb
+C:\Fluencia\FluenciaAPI\Fluencia.Dominio\obj\Debug\net6.0\ref\Fluencia.Dominio.dll
