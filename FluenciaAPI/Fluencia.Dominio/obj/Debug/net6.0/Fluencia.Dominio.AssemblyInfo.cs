@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fluencia.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d91d0d014e668ad158e77803f6c5a70f710fe6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e705f2aa31766d6e733b8012b76c3a01d2c4161")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fluencia.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fluencia.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

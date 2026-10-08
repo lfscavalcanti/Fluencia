@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IidKWr6GM6Q=",
+  "dgSpecHash": "gtrB4QBlCagwAI5W4ZKwVEcWFl4Uz+haS7xNnvUVFvFYmBa7B8zHfZy7qTQxp158ZwZ5bkEKfM8wLStYhkKgtQ==",
   "success": true,
   "projectFilePath": "C:\\Fluencia\\FluenciaAPI\\Fluencia.Api\\Fluencia.Api.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\luizf\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\luizf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\luizf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
