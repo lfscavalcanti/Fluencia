@@ -4,6 +4,6 @@ namespace Fluencia.Api.Models
     {
         public int AlunoId { get; set; }
         public int QuestaoId { get; set; }
-        public char RespostaDada { get; set; }
+        public char OpcaoEscolhida  { get; set; }
     }
 }
