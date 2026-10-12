@@ -9,7 +9,18 @@ public class FluenciaContexto : DbContext
     public DbSet<Resposta> Respostas { get; set; }
     public DbSet<Resultado> Resultados { get; set; }
 
+    public FluenciaContexto() { }
     public FluenciaContexto(DbContextOptions options) : base(options) { }
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            optionsBuilder.UseSqlServer(
+                "Server=ESCRITORIO\\SQLEXPRESS;Database=FluenciaDB;Trusted_Connection=True;TrustServerCertificate=True;"
+            );
+        }
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
