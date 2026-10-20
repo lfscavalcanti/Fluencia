@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Fluencia.Dominio\Fluencia.Dominio.csproj" />
+    <ProjectReference Include="..\Fluencia.Repositorio\Fluencia.Repositorio.csproj" />
   </ItemGroup>
 
   <ItemGroup>
