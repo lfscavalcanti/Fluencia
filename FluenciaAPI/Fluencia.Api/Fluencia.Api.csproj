@@ -1,4 +1,14 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fluencia.Dominio\Fluencia.Dominio.csproj" />
+    <ProjectReference Include="..\Fluencia.Repositorio\Fluencia.Repositorio.csproj" />
+    <ProjectReference Include="..\Fluencia.Servicos\Fluencia.Servicos.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
