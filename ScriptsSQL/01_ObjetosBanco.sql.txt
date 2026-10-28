@@ -1,0 +1,44 @@
+USE FluenciaDB;
+GO
+
+-- 1. STORED PROCEDURE: Atualizar o email do aluno
+CREATE OR ALTER PROCEDURE spAtualizarEmailAluno
+    @AlunoId INT,
+    @NovoEmail NVARCHAR(150)
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    UPDATE Alunos
+    SET Email = @NovoEmail
+    WHERE Id = @AlunoId;
+
+    SELECT @@ROWCOUNT AS LinhasAfetadas;
+END;
+GO
+
+-- 2. VIEW: Relatório resumido de alunos e data de cadastro
+CREATE OR ALTER VIEW vwAlunos
+AS
+SELECT 
+    Id,
+    Nome,
+    Email,
+    DataCadastro
+FROM Alunos;
+GO
+
+-- 3. FUNCTION: Obter apenas o nome do aluno por ID
+CREATE OR ALTER FUNCTION fnObterNomeAluno (@AlunoId INT)
+RETURNS NVARCHAR(150)
+AS
+BEGIN
+    DECLARE @NomeAluno NVARCHAR(150);
+
+    SELECT @NomeAluno = Nome
+    FROM Alunos
+    WHERE Id = @AlunoId;
+
+    RETURN @NomeAluno;
+END;
+GO
