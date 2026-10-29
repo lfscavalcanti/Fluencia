@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using FluenciaAPI.Dominio;
+using Fluencia.Dominio.Entidades;
 using Fluencia.Repositorio.Configuracoes;
 
 public class FluenciaContexto : DbContext
