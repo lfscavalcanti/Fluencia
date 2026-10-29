@@ -1,0 +1,121 @@
+.card_prova {
+  max-width: 650px;
+  margin: 40px auto;
+  padding: 35px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(74, 21, 37, 0.06);
+  border: 1px solid #f0e6dc;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #6b4d4d;
+  font-family: Arial, sans-serif;
+  border-bottom: 1px solid #f5ede6;
+  padding-bottom: 12px;
+}
+
+.caixa_questao {
+  margin-bottom: 25px;
+}
+
+.subtitulo {
+  display: inline-block;
+  background-color: #581c2b;
+  color: #ffffff;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.enunciado {
+  font-size: 20px;
+  font-weight: normal;
+  color: #2b1810;
+  line-height: 1.4;
+}
+
+.lista_opcoes {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 28px;
+  font-family: Arial, sans-serif;
+}
+
+.item_opcao {
+  display: flex;
+  align-items: center;
+  padding: 14px 18px;
+  border: 1px solid #e5d9ce;
+  border-radius: 12px;
+  cursor: pointer;
+  background-color: #ffffff;
+  transition: all 0.2s ease;
+  font-size: 15px;
+  color: #4a3838;
+}
+
+.item_opcao:hover {
+  background-color: #faf6f2;
+}
+
+.item_opcao_selecionada {
+  border-color: #581c2b !important;
+  background-color: #f7eff1 !important;
+  font-weight: bold;
+}
+
+/* O destaque especial da opção E ("Não sei responder") */
+.item_opcao_e {
+  background-color: #fff9f0 !important;
+  border-color: #fde2c2 !important;
+  color: #9a3412 !important;
+}
+
+.item_opcao_e:hover {
+  background-color: #fff2e0 !important;
+}
+
+.item_opcao input {
+  margin-right: 12px;
+  accent-color: #581c2b;
+  width: 16px;
+  height: 16px;
+}
+
+.botao_acao {
+  width: 100%;
+  padding: 14px;
+  background-color: #581c2b;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  transition: opacity 0.2s;
+}
+
+.botao_acao:hover {
+  opacity: 0.9;
+}
+
+.status_mensagem {
+  text-align: center;
+  margin-top: 80px;
+  font-size: 16px;
+  color: #6b4d4d;
+}
+
+.erro_mensagem {
+  color: #b91c1c;
+}

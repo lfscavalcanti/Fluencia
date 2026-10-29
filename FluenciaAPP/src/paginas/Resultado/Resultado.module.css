@@ -1,0 +1,155 @@
+.card_resultado {
+  max-width: 720px;
+  margin: 30px auto;
+  padding: 35px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(74, 21, 37, 0.06);
+  border: 1px solid #f0e6dc;
+}
+
+.cabecalho_aluno {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+  border-bottom: 1px solid #f5ede6;
+  padding-bottom: 15px;
+}
+
+.nome_aluno {
+  font-size: 26px;
+  color: #4a1525;
+  margin-bottom: 4px;
+}
+
+.detalhes_aluno {
+  font-size: 13px;
+  color: #7a6060;
+  font-family: Arial, sans-serif;
+}
+
+.badge_nivel {
+  background-color: #581c2b;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 10px 16px;
+  text-align: center;
+  min-width: 60px;
+}
+
+.badge_nivel h3 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.badge_nivel span {
+  font-size: 10px;
+  text-transform: uppercase;
+  font-family: Arial, sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.grid_topicos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 25px;
+  font-family: Arial, sans-serif;
+}
+
+.painel_topicos {
+  background-color: #faf6f2;
+  border-radius: 12px;
+  padding: 18px;
+  border: 1px solid #ede3d8;
+}
+
+.painel_topicos h4 {
+  font-size: 14px;
+  margin-bottom: 12px;
+  color: #4a1525;
+}
+
+.item_topico_verde {
+  background-color: #e6f4ea;
+  color: #137333;
+  padding: 8px 12px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item_topico_laranja {
+  background-color: #fef3e2;
+  color: #b05a00;
+  padding: 8px 12px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  font-size: 13px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-between;
+}
+
+.caixa_plano_vinho {
+  background-color: #4a1525;
+  color: #ffffff;
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 25px;
+}
+
+.caixa_plano_vinho h4 {
+  font-size: 17px;
+  margin-bottom: 12px;
+  color: #fde8ed;
+}
+
+.texto_plano {
+  white-space: pre-wrap;
+  line-height: 1.6;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  color: #fdf2f4;
+}
+
+.botoes_container {
+  display: flex;
+  gap: 12px;
+}
+
+.botao_pdf {
+  flex: 1;
+  padding: 14px;
+  background-color: #2b1810;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  transition: opacity 0.2s;
+}
+
+.botao_reiniciar {
+  flex: 1;
+  padding: 14px;
+  background-color: #581c2b;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  transition: opacity 0.2s;
+}
+
+.botao_pdf:hover, .botao_reiniciar:hover {
+  opacity: 0.9;
+}
