@@ -20,6 +20,7 @@ builder.Services.AddScoped<IAlunoRepositorio, AlunoRepositorio>();
 builder.Services.AddScoped<IQuestaoRepositorio, QuestaoRepositorio>();
 builder.Services.AddScoped<IRespostaRepositorio, RespostaRepositorio>();
 builder.Services.AddScoped<IResultadoRepositorio, ResultadoRepositorio>();
+builder.Services.AddScoped<IProfessorRepositorio, ProfessorRepositorio>();
 
 // 4. Injeção de Dependências - Serviços e IA (GitHub Models)
 builder.Services.AddScoped<IAiService, AiService>();
